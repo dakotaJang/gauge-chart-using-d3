@@ -14,7 +14,7 @@
     "url": "git+https://github.com/dakotaJang/gauge-chart-using-d3.git"
   },
   "author": "dakotaJang",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dakotaJang/gauge-chart-using-d3/issues"
   },
